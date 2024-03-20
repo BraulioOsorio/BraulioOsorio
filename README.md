@@ -5,7 +5,7 @@
 📫 **How to reach me:** braulioosoriomartinez@gmail.com  
 
 
-<img align="right" height="150" src="https://media.tenor.com/saOybZUSPlQAAAAi/spin-haunter.gif"/>
+<img align="right" height="150" src="https://media.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif"/>
 
 
 # 🖥️ Tech Stack:
