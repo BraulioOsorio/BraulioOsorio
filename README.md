@@ -5,7 +5,7 @@
 📫 **How to reach me:** braulioosoriomartinez@gmail.com  
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.tenor.com/saOybZUSPlQAAAAi/spin-haunter.gif)"  />
 
 
 # 🖥️ Tech Stack:
@@ -24,9 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BraulioOsorio&icon=9&color=12)](https://visitcount.itsvg.in)
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
