@@ -35,10 +35,9 @@
 
 <div align="center">
   
-[![](https://komarev.com/ghpvc/?username=BraulioOsorio&label=Profile+Views&color=blueviolet)](https://github.com/BraulioOsorio)
+[![Profile Views](https://komarev.com/ghpvc/?username=BraulioOsorio&label=Profile+Views&color=8A2BE2&style=flat-square)](https://github.com/BraulioOsorio)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=BraulioOsorio&label=Profile+Views&color=8A2BE2&style=flat-square)
 
 
 
