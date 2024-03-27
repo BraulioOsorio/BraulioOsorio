@@ -5,6 +5,7 @@
 🎓 **Education:** I'm a software analysis and development student.  
 🌍 **Location:** I'm from Colombia  
 📫 **How to reach me:** braulioosoriomartinez@gmail.com  
+![Profile Views](https://komarev.com/ghpvc/?username=BraulioOsorio&label=Profile+Views&color=8A2BE2&style=flat-square)
 
 
 🖥️ **My languages:**
@@ -30,19 +31,6 @@
 🏆 **GitHub Trophies**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BraulioOsorio&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  
-![👁️ Profile Views](https://komarev.com/ghpvc/?username=BraulioOsorio&label=Profile+Views&color=8A2BE2&style=flat-square)
-
-
-
-
-
-
-</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
