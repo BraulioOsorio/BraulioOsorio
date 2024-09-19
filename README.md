@@ -16,9 +16,9 @@
 
 
 
-
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,python,javascript,mongodb,java,mysql,django,fastapi,spring,docker,androidstudio,laravel,discord,php,postman" alt="skills logos" />
+</div>
 
 📊 **GitHub Stats:**
 <div align="center">
