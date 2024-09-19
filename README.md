@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=cs"/>
 </div>
-**Frameworks and Libraries:**
+### Frameworks and Libraries:
 <div>
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=laravel"/>
