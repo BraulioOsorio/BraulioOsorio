@@ -9,8 +9,8 @@
 ## 🖥️ My Toolkit:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" style="margin-top: 20px; margin-left: 20px;" height="150" src="https://media.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif"/>
-<div>
-### Languages:
+
+### **Languages:**
 <div>
   <img src="https://skillicons.dev/icons?i=py"/>
   <img src="https://skillicons.dev/icons?i=php"/>
@@ -19,7 +19,8 @@
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=cs"/>
 </div>
-### Frameworks and Libraries:
+
+### **Frameworks and Libraries:**
 <div>
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=laravel"/>
@@ -31,7 +32,8 @@
   <img src="https://skillicons.dev/icons?i=dotnet"/>
   <img src="https://skillicons.dev/icons?i=npm"/>
 </div>
-### Tools:
+
+### **Tools:**
 <div>
   <img src="https://skillicons.dev/icons?i=visualstudio"/>
   <img src="https://skillicons.dev/icons?i=vscode"/>
@@ -41,17 +43,18 @@
   <img src="https://skillicons.dev/icons?i=anaconda"/>
   <img src="https://skillicons.dev/icons?i=supabase"/>
 </div>
-### Databases:
+
+### **Databases:**
 <div>
   <img src="https://skillicons.dev/icons?i=mysql"/>
   <img src="https://skillicons.dev/icons?i=mongodb"/>
 </div>
-### Other:
+
+### **Other:**
 <div>
   <img src="https://skillicons.dev/icons?i=discord"/>
   <img src="https://skillicons.dev/icons?i=figma"/>
   <img src="https://skillicons.dev/icons?i=notion"/>
-</div>
 </div>
 
 
