@@ -11,12 +11,12 @@
 🖥️ **My languages:**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div class=" container ">
-  <img class="col-3" style="margin-top: 20px;" height="150" src="https://media.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif"/>
-  
+  <div align="right" class="col-3">
+    <img style="margin-top: 20px;" height="150" src="https://media.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif"/>
+  </div>
   <div class="col-9">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,supabase,react,py,php,npm,notion,nodejs,mysql,laravel,js,java,html,github,fastapi,git,figma,express,discord,css,bootstrap,androidstudio,anaconda,mongodb,spring,cs,dotnet" alt="skills logos" />
-</div>
-
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,supabase,react,py,php,npm,notion,nodejs,mysql,laravel,js,java,html,github,fastapi,git,figma,express,discord,css,bootstrap,androidstudio,anaconda,mongodb,spring,cs,dotnet" alt="skills     logos" />
+  </div>
 </div>
 
 📊 **GitHub Stats:**
