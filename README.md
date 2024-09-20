@@ -4,12 +4,7 @@
 <img align="right" style="margin-top: 20px; margin-left: 20px;" height="150" src="https://media.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif"/>
 💫 About Me:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-👋 **Hello! I'm David Osorio.**  
-🎓 **Education:** I'm a software analysis and development student.  
-🌍 **Location:** I'm from Colombia  
-📫 **How to reach me:** braulioosoriomartinez@gmail.com  
-
-csharp
+java
 using System;
 
     public DavidOsorio()
