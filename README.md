@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=I+don't+sleep+for+the+code;Universal+code+for+everyone" />
 </div>
-<img align="center"  height="100" src="https://media.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif"/>
+<img align="left"  height="100" src="https://media.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif"/>
+<img align="right"  height="100" src="https://media.tenor.com/0c728qn5y6cAAAAi/gengar-pokemon.gif"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
