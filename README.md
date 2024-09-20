@@ -27,7 +27,7 @@ public class DavidOsorio {
 
 <div align="center">
   <h2>🖥️ My Toolkit:</h2>
-  ### **Languages:**
+  <h3>Languages:<h3>
   <div>
     <img src="https://skillicons.dev/icons?i=py"/>
     <img src="https://skillicons.dev/icons?i=php"/>
