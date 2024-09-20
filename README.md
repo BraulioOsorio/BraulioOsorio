@@ -5,8 +5,7 @@
 💫 About Me:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-java
-
+python
     public DavidOsorio()
     {
         Name = "David Osorio";
@@ -14,7 +13,6 @@ java
         Location = "Colombia";
         Contact = "braulioosoriomartinez@gmail.com";
     }
-
     public void Introduce()
     {
         Console.WriteLine($"👋 Hello! I'm {Name}.");
