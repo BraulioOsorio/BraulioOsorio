@@ -9,6 +9,42 @@
 🌍 **Location:** I'm from Colombia  
 📫 **How to reach me:** braulioosoriomartinez@gmail.com  
 
+csharp
+using System;
+
+public class DavidOsorio
+{
+    public string Name { get; set; }
+    public string Education { get; set; }
+    public string Location { get; set; }
+    public string Contact { get; set; }
+
+    public DavidOsorio()
+    {
+        Name = "David Osorio";
+        Education = "Software Analysis and Development Student";
+        Location = "Colombia";
+        Contact = "braulioosoriomartinez@gmail.com";
+    }
+
+    public void Introduce()
+    {
+        Console.WriteLine($"👋 Hello! I'm {Name}.");
+        Console.WriteLine($"🎓 Education: {Education}.");
+        Console.WriteLine($"🌍 Location: {Location}.");
+        Console.WriteLine($"📫 How to reach me: {Contact}.");
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        DavidOsorio me = new DavidOsorio();
+        me.Introduce();
+    }
+}
+
 ## 🖥️ My Toolkit:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### **Languages:**
