@@ -5,10 +5,10 @@
 💫 About Me:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```css
+```java
     public class DavidOsorio {
     private String name = "David Osorio";
-    private String education = "Software Analysis and Development Student";
+    private String education = "Software Analysis and Development";
     private String location = "Colombia";
     private String contact = "braulioosoriomartinez@gmail.com";
 
