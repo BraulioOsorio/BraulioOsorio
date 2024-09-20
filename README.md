@@ -20,6 +20,12 @@
         Console.WriteLine($"🌍 Location: {Location}.");
         Console.WriteLine($"📫 How to reach me: {Contact}.");
     }
+{
+  "name": "David Osorio",
+  "education": "Software Analysis and Development Student",
+  "location": "Colombia",
+  "contact": "braulioosoriomartinez@gmail.com"
+}
 ```
 
 ## 🖥️ My Toolkit:
