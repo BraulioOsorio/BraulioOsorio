@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=I+don't+sleep+for+the+code;Universal+code+for+everyone" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=I+don't+sleep+for+the+code;Universal+code+for+everyone;I+program+for+eat" />
 </div>
 <div>
   <img align="right" height="100" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"/>
@@ -39,6 +39,7 @@ public class DavidOsorio {
   ### **Frameworks and Libraries:**
   <div>
     <img src="https://skillicons.dev/icons?i=react"/>
+    <img src="https://skillicons.dev/icons?i=vite"/>
     <img src="https://skillicons.dev/icons?i=laravel"/>
     <img src="https://skillicons.dev/icons?i=fastapi"/>
     <img src="https://skillicons.dev/icons?i=spring"/>
@@ -46,28 +47,33 @@ public class DavidOsorio {
     <img src="https://skillicons.dev/icons?i=express"/>
     <img src="https://skillicons.dev/icons?i=nodejs"/>
     <img src="https://skillicons.dev/icons?i=dotnet"/>
-    <img src="https://skillicons.dev/icons?i=npm"/>
   </div>
   
   ### **Tools:**
   <div>
     <img src="https://skillicons.dev/icons?i=visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=bash"/>
     <img src="https://skillicons.dev/icons?i=vscode"/>
     <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=linux"/>
     <img src="https://skillicons.dev/icons?i=git"/>
     <img src="https://skillicons.dev/icons?i=androidstudio"/>
     <img src="https://skillicons.dev/icons?i=anaconda"/>
     <img src="https://skillicons.dev/icons?i=supabase"/>
+    <img src="https://skillicons.dev/icons?i=postman"/>
   </div>
   
-  ### **Databases:**
+  ### **Databases and ORM:**
   <div>
     <img src="https://skillicons.dev/icons?i=mysql"/>
-    <img src="https://skillicons.dev/icons?i=mongodb"/>
+    <img src="https://skillicons.dev/icons?i=redis"/>
+    <img src="https://skillicons.dev/icons?i=postgres"/>
+    <img src="https://skillicons.dev/icons?i=prisma"/>
   </div>
   
   ### **Other:**
   <div>
+    <img src="https://skillicons.dev/icons?i=npm"/>
     <img src="https://skillicons.dev/icons?i=discord"/>
     <img src="https://skillicons.dev/icons?i=figma"/>
     <img src="https://skillicons.dev/icons?i=notion"/>
