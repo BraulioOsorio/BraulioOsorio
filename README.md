@@ -36,15 +36,6 @@ public class DavidOsorio
     }
 }
 
-public class Program
-{
-    public static void Main()
-    {
-        DavidOsorio me = new DavidOsorio();
-        me.Introduce();
-    }
-}
-
 ## 🖥️ My Toolkit:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### **Languages:**
