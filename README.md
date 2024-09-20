@@ -62,10 +62,3 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=BraulioOsorio&label=Profile+Views&color=8A2BE2&style=flat-square)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
