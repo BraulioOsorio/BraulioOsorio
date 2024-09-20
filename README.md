@@ -12,13 +12,6 @@
 csharp
 using System;
 
-public class DavidOsorio
-{
-    public string Name { get; set; }
-    public string Education { get; set; }
-    public string Location { get; set; }
-    public string Contact { get; set; }
-
     public DavidOsorio()
     {
         Name = "David Osorio";
@@ -34,7 +27,6 @@ public class DavidOsorio
         Console.WriteLine($"🌍 Location: {Location}.");
         Console.WriteLine($"📫 How to reach me: {Contact}.");
     }
-}
 
 ## 🖥️ My Toolkit:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
