@@ -6,26 +6,20 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ```css
-    public DavidOsorio()
-    {
-        Name = "David Osorio";
-        Education = "Software Analysis and Development Student";
-        Location = "Colombia";
-        Contact = "braulioosoriomartinez@gmail.com";
+    public class DavidOsorio {
+    private String name = "David Osorio";
+    private String education = "Software Analysis and Development Student";
+    private String location = "Colombia";
+    private String contact = "braulioosoriomartinez@gmail.com";
+
+    public void introduce() {
+        System.out.println("👋 Hello! I'm " + name + ".");
+        System.out.println("🎓 Education: " + education + ".");
+        System.out.println("🌍 Location: " + location + ".");
+        System.out.println("📫 How to reach me: " + contact + ".");
     }
-    public void Introduce()
-    {
-        Console.WriteLine($"👋 Hello! I'm {Name}.");
-        Console.WriteLine($"🎓 Education: {Education}.");
-        Console.WriteLine($"🌍 Location: {Location}.");
-        Console.WriteLine($"📫 How to reach me: {Contact}.");
-    }
-{
-  "name": "David Osorio",
-  "education": "Software Analysis and Development Student",
-  "location": "Colombia",
-  "contact": "braulioosoriomartinez@gmail.com"
 }
+
 ```
 
 ## 🖥️ My Toolkit:
