@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ```java
-    public class DavidOsorio {
+public class DavidOsorio {
     private String name = "David Osorio";
     private String education = "Software Analysis and Development";
     private String location = "Colombia";
@@ -19,7 +19,6 @@
         System.out.println("📫 How to reach me: " + contact + ".");
     }
 }
-
 ```
 
 ## 🖥️ My Toolkit:
