@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=php"/>
   <img src="https://skillicons.dev/icons?i=js"/>
   <img src="https://skillicons.dev/icons?i=java"/>
-  <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=cs"/>
 </div>
 
@@ -58,6 +57,8 @@
   <img src="https://skillicons.dev/icons?i=discord"/>
   <img src="https://skillicons.dev/icons?i=figma"/>
   <img src="https://skillicons.dev/icons?i=notion"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
 </div>
 
 
