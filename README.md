@@ -65,18 +65,9 @@
 ### 📊 **GitHub Stats:**
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BraulioOsorio&theme=midnight_purple" height="180em" />
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BraulioOsorio&theme=midnight_purple" height="180em" />
-
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BraulioOsorio&theme=midnight_purple" height="180em" />
 
 </div>
-
-🏆 **GitHub Trophies**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BraulioOsorio&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
