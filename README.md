@@ -42,6 +42,7 @@ public class DavidOsorio {
     <img src="https://skillicons.dev/icons?i=vite"/>
     <img src="https://skillicons.dev/icons?i=laravel"/>
     <img src="https://skillicons.dev/icons?i=fastapi"/>
+    <img src="https://skillicons.dev/icons?i=nestjs"/>
     <img src="https://skillicons.dev/icons?i=spring"/>
     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     <img src="https://skillicons.dev/icons?i=express"/>
